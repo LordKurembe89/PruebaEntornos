@@ -1,2 +1,2 @@
 print("MONDONGO")
-print("Lord Kurembe)
+print("Lord Kurembe")
